@@ -1,12 +1,31 @@
 {
   "name": "agenttrace-langgraph",
   "version": "0.0.1",
-  "description": "LangGraph JS adapter for agenttrace-react.",
+  "description": "LangGraph JS adapter for agenttrace-react. Visualise LangGraph agent execution traces, tool calls, and human-in-the-loop interrupts as a live React UI.",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/nedbpowell/agenttrace-react.git"
   },
+  "keywords": [
+    "react",
+    "typescript",
+    "langgraph",
+    "langchain",
+    "ai-agents",
+    "agent-ui",
+    "human-in-the-loop",
+    "hitl",
+    "execution-trace",
+    "agent-trace",
+    "headless",
+    "llm",
+    "ai",
+    "interrupt",
+    "approval-gate",
+    "workflow",
+    "agenttrace-react"
+  ],
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

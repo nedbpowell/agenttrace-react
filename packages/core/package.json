@@ -1,6 +1,6 @@
 {
   "name": "agenttrace-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Headless React primitives for AI agent execution traces, human-in-the-loop approval gates, and agent status UI. Works with LangGraph, AG-UI, and the Vercel AI SDK.",
   "license": "MIT",
   "repository": {
