@@ -1,6 +1,6 @@
 {
   "name": "agenttrace-react",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Headless React primitives for visualising AI agent execution traces.",
   "license": "MIT",
   "repository": {
