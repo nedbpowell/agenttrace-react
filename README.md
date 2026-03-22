@@ -107,7 +107,7 @@ Every team has a design system. Shipping styled components means you spend your 
 - [x] AG-UI protocol adapter (`agenttrace-ag-ui`)
 - [x] Vercel AI SDK adapter (`agenttrace-ai-sdk`)
 - [ ] Storybook with unstyled examples
-- [ ] shadcn/ui themed example
+- [x] shadcn/ui themed example
 - [ ] Multi-agent coordination view
 
 ## Contributing
