@@ -1,6 +1,6 @@
 {
   "name": "agenttrace-langgraph",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "LangGraph JS adapter for agenttrace-react. Visualise LangGraph agent execution traces, tool calls, and human-in-the-loop interrupts as a live React UI.",
   "license": "MIT",
   "repository": {
