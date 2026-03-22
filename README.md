@@ -83,7 +83,7 @@ Install the adapter for your agent framework alongside the core library:
 |-----------|---------|---------|
 | LangGraph (JS) | `agenttrace-langgraph` | `npm i agenttrace-langgraph` |
 | AG-UI protocol | `agenttrace-ag-ui` | `npm i agenttrace-ag-ui` |
-| Vercel AI SDK | `agenttrace-ai-sdk` | `npm i agenttrace-ai-sdk` *(coming soon)* |
+| Vercel AI SDK | `agenttrace-ai-sdk` | `npm i agenttrace-ai-sdk` |
 
 ## Why headless?
 
@@ -105,7 +105,7 @@ Every team has a design system. Shipping styled components means you spend your 
 - [x] Core headless components
 - [x] LangGraph adapter (`agenttrace-langgraph`)
 - [x] AG-UI protocol adapter (`agenttrace-ag-ui`)
-- [ ] Vercel AI SDK adapter (`agenttrace-ai-sdk`)
+- [x] Vercel AI SDK adapter (`agenttrace-ai-sdk`)
 - [ ] Storybook with unstyled examples
 - [ ] shadcn/ui themed example
 - [ ] Multi-agent coordination view
