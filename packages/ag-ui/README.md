@@ -60,7 +60,7 @@ export function AgUiTraceView() {
 
 ## Repository
 
-[github.com/agenttrace/react](https://github.com/agenttrace/react)
+[github.com/nedbpowell/agenttrace-react](https://github.com/nedbpowell/agenttrace-react)
 
 ## License
 

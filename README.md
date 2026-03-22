@@ -16,7 +16,7 @@
 
 ---
 
-![agenttrace-react demo](https://raw.githubusercontent.com/agenttrace/react/main/screenshots/demo.png)
+![agenttrace-react demo](https://raw.githubusercontent.com/nedbpowell/agenttrace-react/main/screenshots/demo.png)
 
 
 
