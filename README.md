@@ -103,9 +103,9 @@ Every team has a design system. Shipping styled components means you spend your 
 ## Roadmap
 
 - [x] Core headless components
-- [ ] Publish LangGraph adapter package
-- [ ] Publish AG-UI protocol adapter package
-- [ ] Vercel AI SDK adapter
+- [x] LangGraph adapter (`agenttrace-langgraph`)
+- [x] AG-UI protocol adapter (`agenttrace-ag-ui`)
+- [ ] Vercel AI SDK adapter (`agenttrace-ai-sdk`)
 - [ ] Storybook with unstyled examples
 - [ ] shadcn/ui themed example
 - [ ] Multi-agent coordination view
